@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: stock-market-sample
+Implementation-Version: 5.10.6.Final-SNAPSHOT
+Built-By: tejas
+Implementation-Vendor-Id: org.jboss.test.stock.spring
+Build-Jdk: 1.8.0_252
+Implementation-URL: http://projects.spring.io/spring-boot/stock-market
+ -sample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

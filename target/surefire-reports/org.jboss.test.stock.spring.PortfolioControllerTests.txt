@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jboss.test.stock.spring.PortfolioControllerTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.521 sec - in org.jboss.test.stock.spring.PortfolioControllerTests
